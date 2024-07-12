@@ -11,15 +11,27 @@ permalink: /research/
 ---
 ### Research highlight in Nature 
 <div class="row clearfix">
-  <img src="../images/respic/nature.jpg" class="img-responsive" width="25%" style="float: left" />
-  <h4>Our Nature Medicine paper on an AI model for differential dementia diagnosis is highlighted in Nature.</h4>
- <h4> <a href=" https://www.nature.com/articles/d41586-024-02202-1"> Click here</a>for more details.</h4>
-
+  <div class="res-image" width="25%">
+  <img src="../images/respic/nature.jpg" class="img-responsive"  style="float: left" />
+  </div>
+  <div class="res-text" style=" margin-left: 25px;">
+  <p class="content">Our Nature Medicine paper on an AI model for differential dementia diagnosis is highlighted in Nature.</p>
+ <h4> <a href=" https://www.nature.com/articles/d41586-024-02202-1"> Click here</a> for more details.</h4>
+</div>
 </div>
 
 ---
 ### Podcast on AI tools for dementia 
-Listen to our discussion on building AI tools for dementia on the Research Renaissance podcast. Click [here](https://podcasts.apple.com/us/podcast/research-renaissance-exploring-the-future-of/id1735997150?i=1000661644448) for more details.
+<div class="row clearfix">
+  <div class="res-image" width="25%">
+  <img src="../images/respic/AI-tools-podcast.jpg" class="img-responsive"  style="float: left" />
+  </div>
+  <div class="res-text" style=" margin-left: 25px;">
+  <p class="content">Listen to our discussion on building AI tools for dementia on the Research Renaissance podcast.</p>
+ <button href="https://podcasts.apple.com/us/podcast/research-renaissance-exploring-the-future-of/id1735997150?i=1000661644448"> Learn more</button>
+</div>
+</div>
+
 
 ---
 ### Briefing on our research in Nature Medicine 
